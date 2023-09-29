@@ -42,7 +42,7 @@ My goal and dream is to be a successful Back-end Developer. I am training for ev
 <p align="center">
   <a>
     <img height="120" width="140" src="https://github.com/muhiqsimui/muhiqsimui/raw/main/assets/left.png">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=peymannn&theme=dark&hide_border=true" alt="muhiqsimui"/>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=peymannn&theme=dark&hide_border=true"/>
     <img height="120" width="140" src="https://github.com/muhiqsimui/muhiqsimui/raw/main/assets/right.png">
   </a>
 </p>
