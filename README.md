@@ -1,6 +1,6 @@
  # <p  align="center">Hi, I'm Peyman Öter 👋</p>
 <p align="center">
-     <img  src="https://github.com/peymannn/peymannn/blob/main/peymannn/pictures/educationWithTech.jpg">
+     <img  src="https://github.com/peymannn/peymannn/blob/main/pictures/educationWithTech.jpg">
 </p>
  
 I am a computer engineering graduate. I believe that knowledge becomes more meaningful when shared. Technology, which we encounter everywhere today, will be beneficial to people and the environment as long as it is used correctly. Only free individuals based on education will achieve this.
