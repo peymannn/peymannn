@@ -5,7 +5,7 @@
  
 I am a computer engineering graduate. I believe that knowledge becomes more meaningful when shared. Technology, which we encounter everywhere today, will be beneficial to people and the environment as long as it is used correctly. Only free individuals based on education will achieve this.
 My goal and dream is to be a successful Back-end Developer. I am training for everywhere and everytime. So, I continue to practice and improve myself.
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=peymannn&label=Profile%20views&color=0e75b6&style=flat" alt="peymanoter" /> </p>
 ## Tech | Tools | Stats
 
 <p align='left'>
